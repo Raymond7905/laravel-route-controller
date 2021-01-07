@@ -6,7 +6,7 @@
     "keywords": ["laravel", "route", "controller"],
     "version": "1.0.0",
     "require": {
-        "laravel/framework": "^6.0"
+        "laravel/framework": "~6.0"
     },
     "license": "MIT",
     "authors": [
