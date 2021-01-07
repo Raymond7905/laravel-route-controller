@@ -1,8 +1,8 @@
 {
-    "name": "shrimpwagon/laravel-route-controller",
+    "name": "confablo/laravel-route-controller",
     "description": "Adds back the Route:controller functionality that was removed in Laravel 5.3 and 5.4",
     "type": "library",
-    "homepage": "http://github.com/shrimpwagon/digium-switchvox-api",
+    "homepage": "http://github.com/Raymond7905",
     "keywords": ["laravel", "route", "controller"],
     "version": "1.0.0",
     "require": {
@@ -11,13 +11,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Shawn Welch",
-            "email": "shrimpwagon@gmail.com"
+            "name": "Raymond Stevens",
+            "email": "raymond@stevens.capetown"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Shrimpwagon\\Laravel\\": "src/"
+            "Confablo\\Laravel\\": "src/"
         }
     },
     "minimum-stability": "stable"
