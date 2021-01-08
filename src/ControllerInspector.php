@@ -1,6 +1,6 @@
 <?php
 
-namespace Shrimpwagon\Laravel;
+namespace Confablo\Laravel;
 
 use ReflectionClass;
 use ReflectionMethod;

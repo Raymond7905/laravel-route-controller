@@ -1,6 +1,6 @@
 <?php
 
-namespace Shrimpwagon\Laravel;
+namespace Confablo\Laravel;
 
 use Illuminate\Routing\Router as LaravelRouter;
 
